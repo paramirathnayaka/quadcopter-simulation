@@ -56,6 +56,12 @@ The aim of the project is to explore drone frame design concepts, component plac
 
 ![Technical Drawing](technical_drawing.png)
 
+## Project Demonstration
+
+A short demonstration video of the CAD model is included in this repository.
+
+Video: drone_overview.mp4
+
 ## Author
 
 Parami Rathnayaka
