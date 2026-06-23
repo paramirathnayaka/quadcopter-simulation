@@ -37,9 +37,24 @@ The aim of the project is to explore drone frame design concepts, component plac
 - Prototype Fabrication
 - Flight Testing
 
-## Project Images
 
-CAD renders and engineering drawings are included in this repository.
+## Design Preview
+
+### Isometric View
+
+![Isometric View](drone_isometric_view.png)
+
+### Top View
+
+![Top View](drone_top_view.png)
+
+### Side View
+
+![Side View](drone_side_view.png)
+
+### Technical Drawing
+
+![Technical Drawing](technical_drawing.png)
 
 ## Author
 
